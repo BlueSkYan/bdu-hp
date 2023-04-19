@@ -1,0 +1,8 @@
+server:
+  port: 20000
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://blueskyan.xyz:3307/bdu_hp
+    username: root
+    password: mysql.blueskyan.xyz
